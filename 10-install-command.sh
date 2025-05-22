@@ -10,5 +10,12 @@ else
 echo "you are running with root access"
 fi
 
-dnf install mysql -y
+dnf install mysqlghtu -y
+
+if [ $? -eq 0 ]
+then
+    echo "Installing Mysql .. success"
+else
+   echo "Installing Mysql .. Failed"
+fi
 
