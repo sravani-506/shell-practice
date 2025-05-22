@@ -1,7 +1,7 @@
 #!/bin/bash
 
-num1=400
-num2=700
+num1=$1
+num2=$2
 
 Timestamp=$(date)
 echo "Executed at: $Timestamp"
