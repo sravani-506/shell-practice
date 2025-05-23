@@ -36,7 +36,7 @@ then
      dnf install mysql -y
      VALIDATE $? "MySQL"
 else 
-    echo -e "$Y MySQL is already installed $N... Nothing to do"
+    echo -e "$y MySQL is already installed $N... Nothing to do"
 fi
 
 
@@ -50,5 +50,5 @@ then
      dnf install nginx -y
      VALIDATE $? "nginx"
 else 
-    echo -e "$Y nginx is already installed $N... Nothing to do"
+    echo -e "$y nginx is already installed $N... Nothing to do"
 fi
