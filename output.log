@@ -1,0 +1,16 @@
+total 24
+-rwxr-xr-x 1 91814 197609   47 May 22 16:43 01-helloworld.sh*
+-rwxr-xr-x 1 91814 197609  182 May 22 17:03 02-conversation.sh*
+-rwxr-xr-x 1 91814 197609  193 May 22 17:11 03-variables.sh*
+-rwxr-xr-x 1 91814 197609  191 May 22 17:33 04-variableArg.sh*
+-rwxr-xr-x 1 91814 197609  141 May 22 18:20 05-variablesread.sh*
+-rwxr-xr-x 1 91814 197609  143 May 22 19:24 06-datatypes.sh*
+-rwxr-xr-x 1 91814 197609  122 May 22 18:34 07-array.sh*
+-rw-r--r-- 1 91814 197609    0 May 22 21:09 08-specvariables.sh
+-rw-r--r-- 1 91814 197609    0 May 22 21:26 09-conditions.sh
+-rwxr-xr-x 1 91814 197609  812 May 22 22:12 10-install-command.sh*
+-rwxr-xr-x 1 91814 197609 1111 May 23 12:39 11-functions.sh*
+-rwxr-xr-x 1 91814 197609 1199 May 23 18:50 12-colors.sh*
+-rw-r--r-- 1 91814 197609    0 May 23 18:56 output.log
+-rw-r--r-- 1 91814 197609   13 May 21 18:14 test.sh
+bash: lsfughfj: command not found
