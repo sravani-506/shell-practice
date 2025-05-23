@@ -42,9 +42,9 @@ dnf list installed nginx
 # If not installed $? is not 0. expresion is true
 if [ $? -ne 0 ]
 then
-    echo "Mnginx is not installed.. going to install it"
-     dnf install mysql -y
-     VALIDATE $? "MySQL"
+    echo "nginx is not installed.. going to install it"
+     dnf install nginx -y
+     VALIDATE $? "nginx"
 else 
     echo "nginx is already installed... Nothing to do"
 fi
